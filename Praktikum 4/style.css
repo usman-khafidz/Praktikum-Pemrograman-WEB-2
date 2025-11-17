@@ -1,0 +1,117 @@
+body {
+  background-color: #f0f4f8;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.container {
+  background: blue;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  margin-top: 40px;
+}
+
+h2 {
+  text-align: center;
+  color: #007bff;
+  margin-bottom: 25px;
+}
+
+.btn {
+  border-radius: 8px !important;
+}
+
+.table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+body {
+  background-color: #f0f8ff; /* biru muda lembut */
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  background: #ffffff;
+  border-radius: 15px;
+  padding: 40px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  border-top: 6px solid #007bff; /* garis biru di atas form */
+}
+
+h2 {
+  color: #007bff;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+label {
+  color: #333;
+  font-weight: 500;
+}
+
+input[type="text"],
+input[type="date"],
+select,
+textarea {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  transition: 0.3s;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #06274a;
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.3);
+  outline: none;
+}
+
+.btn-primary {
+  background-color: #28a745;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  transition: 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #218838;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  transition: 0.3s;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  border-bottom: 3px solid #0d6efd;
+}
+
+.card {
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
+footer {
+  font-size: 14px;
+  margin-top: 40px;
+}
